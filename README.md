@@ -5,13 +5,17 @@ A couple of alternative Emacs Logos that I've created over the past months.
 
 
 Flux:
+=====
+
 ![](https://raw2.github.com/terhechte/Emacs-Logos/master/flux/emacs-flux-256.png)
 
 Download the iconset here (for Mac OS X)
 https://github.com/terhechte/Emacs-Logos/blob/master/flux/Emacs.icns?raw=true
 
 
-Flux:
+Wireframed:
+==========
+
 ![](https://raw2.github.com/terhechte/Emacs-Logos/master/wireframed/emacs-new-icon-256.png)
 
 Download the iconset here (for Mac OS X)
